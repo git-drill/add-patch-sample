@@ -22,7 +22,7 @@ p {
 
 img {
   display: block;
-  width: 300px;
+  width: 300px; // [NG] 本当は600px
 }
 
 

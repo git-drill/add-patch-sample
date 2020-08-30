@@ -29,4 +29,5 @@ img {
 
 
 .important {
+  display: block; // [OK] 正しい変更
 }

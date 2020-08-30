@@ -3,13 +3,28 @@ html {
 }
 
 h1 {
+  font-size: 3rem;
+  text-align: center;
 }
+
+
+
 
 p {
+  text-weight: normal;
+  text-align: left;
 }
 
+
+
+
 img {
+  display: block;
+  width: 300px;
 }
+
+
+
 
 .important {
 }

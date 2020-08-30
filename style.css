@@ -14,6 +14,7 @@ h1 {
 p {
   text-weight: normal;
   text-align: left;
+  color: gray; // [OK] 正しい変更
 }
 
 

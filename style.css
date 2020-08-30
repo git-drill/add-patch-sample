@@ -3,6 +3,7 @@ html {
 }
 
 h1 {
+  color: green; // [NG] 本当はredが正しい
   font-size: 3rem;
   text-align: center;
 }
